@@ -1,3 +1,7 @@
 [submodule "themes/hugo-vitae"]
 	path = themes/hugo-vitae
 	url = https://github.com/dataCobra/hugo-vitae
+
+[submodule "themes/ronu-hugo-theme"]
+	path = themes/ronu-hugo-theme
+	url = https://github.com/softwareyoga/ronu-hugo-theme.git
