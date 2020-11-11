@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on About John Doe </title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on About John Doe </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2020 19:00:00 +0200</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About CS-EJ4104 Course</title>
+      <link>http://example.org/post/about-cs-ej4104-course/</link>
+      <pubDate>Wed, 11 Nov 2020 19:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/post/about-cs-ej4104-course/</guid>
+      <description>You may be wondering why a person takes the DevOps course at Aalto University or any other course for that matter. Some people may be influenced by their friends or family, the prospect of having a huge income as a DevOps engineer or maybe the course is related to one’s passion. Well, I would like to share with you my reasons and why I took the DevOps course.
+With the many courses offered at Aalto, I choose to attend the DevOps course because I believe that the only way to reduce manual labour in software development and operations is to engage in DevOps.</description>
+    </item>
+    
+    <item>
+      <title>Learning Devops</title>
+      <link>http://example.org/post/learning-devops/</link>
+      <pubDate>Wed, 11 Nov 2020 16:32:09 +0200</pubDate>
+      
+      <guid>http://example.org/post/learning-devops/</guid>
+      <description>Over the years, I have learned about many subjects and studied through classes as well as by myself. I know without doubt that many of these subjects are living and applicable to our everyday lives. However, even if I learn about new topics every day for the rest of my life, there is always going to be many more.
+There is so much to look forward to after successfully completing the DevOps course!</description>
+    </item>
+    
+  </channel>
+</rss>
