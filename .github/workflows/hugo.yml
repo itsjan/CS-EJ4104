@@ -23,7 +23,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
-          submodules: false   # Fetch Hugo themes
+          submodules: true   # Fetch Hugo themes
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
     # Step 2 - Sets up the latest version of Hugo
@@ -39,7 +39,7 @@ jobs:
     # Step 4 - Builds the site using the latest version of Hugo
     # Also specifies the theme we want to use
     - name: Build
-      run: hugo --theme=ronu-hugo-theme
+      run: hugo --theme=hugo-vitae
     # Step 5 - Create name file
     # - name: Create cname file
     #  run: echo 'freshswift.net' > public/CNAME

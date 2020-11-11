@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "About John Doe "
-theme = "ronu-hugo-theme"
+#title = "About John Doe "
+theme = "hugo-vitae"
 mainSections = ["post"]
 
  [[menu.main]]
