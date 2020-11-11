@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "About John Doe "
+theme = "ronu-hugo-theme"
+mainSections = ["post"]
+
+ [[menu.main]]
+	name = "Blog"
+	url = "/post/"
+
+[[menu.main]]
+	name = "About"
+	url = "/"
