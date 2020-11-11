@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on </title>
-		<link>http://example.org/post/</link>
-		<description>Recent content in Posts on example.org</description>
+		<link>https://itsjan.github.io/CS-EJ4104/post/</link>
+		<description>Recent content in Posts on itsjan.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<lastBuildDate>Wed, 11 Nov 2020 19:00:00 +0200</lastBuildDate>
 		
-		<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://itsjan.github.io/CS-EJ4104/post/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>About CS-EJ4104 Course</title>
-			<link>http://example.org/post/about-cs-ej4104-course/</link>
+			<link>https://itsjan.github.io/CS-EJ4104/post/about-cs-ej4104-course/</link>
 			<pubDate>Wed, 11 Nov 2020 19:00:00 +0200</pubDate>
 			
-			<guid>http://example.org/post/about-cs-ej4104-course/</guid>
+			<guid>https://itsjan.github.io/CS-EJ4104/post/about-cs-ej4104-course/</guid>
 			<description>
 				
 				This blog post explains why I decided to enroll on the DevOps course
@@ -24,10 +24,10 @@
 		</item>
 		<item>
 			<title>Learning Devops</title>
-			<link>http://example.org/post/learning-devops/</link>
+			<link>https://itsjan.github.io/CS-EJ4104/post/learning-devops/</link>
 			<pubDate>Wed, 11 Nov 2020 16:32:09 +0200</pubDate>
 			
-			<guid>http://example.org/post/learning-devops/</guid>
+			<guid>https://itsjan.github.io/CS-EJ4104/post/learning-devops/</guid>
 			<description>
 				
 				Read what I learned on the DevOps course
